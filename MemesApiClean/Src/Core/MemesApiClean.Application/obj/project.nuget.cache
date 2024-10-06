@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3w4dMKtEyOx+14Z3QbHaY65a8lf5UelvXJ9L5Ewq2oB35U1LkatYZ7jLMIaeRfLsVJySzXYk0Vp/6B48ZMlMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\MemesApiClean\\MemesApiClean\\Src\\Core\\MemesApiClean.Application\\MemesApiClean.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imbal\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\imbal\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
+    "C:\\Users\\imbal\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\imbal\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\imbal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
