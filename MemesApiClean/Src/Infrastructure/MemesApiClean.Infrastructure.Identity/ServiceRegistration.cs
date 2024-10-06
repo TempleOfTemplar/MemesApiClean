@@ -30,7 +30,7 @@ namespace MemesApiClean.Infrastructure.Identity
             else
             {
                 services.AddDbContext<IdentityContext>(options =>
-                    options.UseSqlServer(configuration.GetConnectionString("IdentityConnection")));
+                    options.UseSqlite(configuration.GetConnectionString("IdentityConnection")));
             }
 
             services.AddTransient<IGetUserServices, GetUserServices>();

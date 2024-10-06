@@ -19,7 +19,7 @@ namespace MemesApiClean.Infrastructure.FileManager
             else
             {
                 services.AddDbContext<FileManagerDbContext>(options =>
-                    options.UseSqlServer(configuration.GetConnectionString("FileManagerConnection")));
+                    options.UseSqlite(configuration.GetConnectionString("FileManagerConnection")));
             }
 
             services.AddScoped<IFileManagerService, FileManagerService>();
